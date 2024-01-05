@@ -1,0 +1,20 @@
+.todo-block{
+    min-height: 400px;
+    background: #fff;
+    margin: 20px 0;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #00000052;
+}
+.todo-header{
+    background: turquoise;
+    padding: 10px;
+    border-radius: 7px;
+}
+.todo-input{
+    margin-right: 10px;
+    padding: 7px;
+}
+.btn-outline-light {
+  color: red;
+}
